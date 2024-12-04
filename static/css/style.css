@@ -1,7 +1,8 @@
+/* Stile per l'intestazione con immagine di sfondo */
 .hero-header {
     background: url('https://www.germania.info/wp-content/uploads/sites/69/monaco-di-baviera.jpg') no-repeat center center;
-    background-size: cover;
-    height: 300px;
-    color: white;
-    text-shadow: 1px 1px 2px black;
-  }
+    background-size: cover; /* Adatta l'immagine alla dimensione dell'intestazione */
+    height: 300px; /* Altezza dell'intestazione */
+    color: white; /* Colore del testo */
+    text-shadow: 1px 1px 2px black; /* Aggiunge un'ombra al testo per maggiore leggibilità */
+}
